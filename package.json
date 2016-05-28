@@ -1,0 +1,14 @@
+{
+  "name": "PWA-experiments",
+  "version": "0.0.1",
+  "description": "progressive web app",
+  "license": "mit",
+
+  "dependencies": {
+    "localforage": "^1.4.2"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": ">=0.12.2"
+  }
+}
